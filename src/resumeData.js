@@ -1,44 +1,44 @@
 let resumeData = {
     "imagebaseurl":"https://rbhatia46.github.io/",
-    "name": "Rahul Bhatia",
-    "role": "Frontend Developer and Data Scientist",
+    "name": "Dylan Cuskelly",
+    "role": "Physicist and Engineer",
     "linkedinId":"Your LinkedIn Id",
     "skypeid": "Your skypeid",
-    "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+    "roleDescription": "I am a project orientated physicist with a passion for the appliction of cutting edge technology. When I'm not developing Martian Concrete, I'm making hyperloop pod simulations or learning how to apply Machine Leanring through fastai",
     "socialLinks":[
         {
           "name":"linkedin",
-          "url":"https://www.linkedin.com/in/rahul-bhatia-67ba08121/",
+          "url":"https://www.linkedin.com/in/dylan-c-186ba710b/",
           "className":"fa fa-linkedin"
         },
         {
           "name":"github",
-          "url":"http://github.com/rbhatia46",
+          "url":"https://github.com/dylancusk",
           "className":"fa fa-github"
         },
         {
           "name":"skype",
-          "url":"http://twitter.com/rbhatia46",
+          "url":"https://twitter.com/dylan_cusk",
           "className":"fa fa-twitter"
         }
       ],
-    "aboutme":"I am currently a pre-final year student at The LNM Institute of Information Technology and pursuing my B.Tech from here. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
-    "address":"India",
-    "website":"https://rbhatia46.github.io",
+    "aboutme":"I am currently a second year student at Trinity College Dublin and pursuing my B.A. in Physics from here. I am an experimentalist, currently diving into Machine Learning. I am forever curious.",
+    "address":"Ireland",
+    "website":"",
     "education":[
       {
-        "UniversityName":"The LNM Insitute of Information Technology",
-        "specialization":"Some specialization",
+        "UniversityName":"Trinity College Dublin",
+        "specialization":"Physics",
         "MonthOfPassing":"Aug",
-        "YearOfPassing":"2020",
-        "Achievements":"Some Achievements"
+        "YearOfPassing":"2022",
+        "Achievements":"1st in all modules to date, Undertook Scholarship Exams"
       },
       {
-        "UniversityName":"Some University",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Jan",
+        "UniversityName":"Tullamore College",
+        "specialization":"",
+        "MonthOfPassing":"June",
         "YearOfPassing":"2018",
-        "Achievements":"Some Achievements"
+        "Achievements":"625 points in Leaving Certificate Exams, Naughton Scholarship"
       }
     ],
     "work":[
